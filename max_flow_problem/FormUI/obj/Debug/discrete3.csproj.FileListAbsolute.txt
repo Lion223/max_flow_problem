@@ -1,0 +1,32 @@
+W:\vs_sources\C#\Nulp\discrete3\bin\Debug\discrete3.exe.config
+W:\vs_sources\C#\Nulp\discrete3\bin\Debug\discrete3.exe
+W:\vs_sources\C#\Nulp\discrete3\bin\Debug\discrete3.pdb
+W:\vs_sources\C#\Nulp\discrete3\bin\Debug\MetroFramework.Design.dll
+W:\vs_sources\C#\Nulp\discrete3\bin\Debug\MetroFramework.dll
+W:\vs_sources\C#\Nulp\discrete3\bin\Debug\MetroFramework.Fonts.dll
+W:\vs_sources\C#\Nulp\discrete3\obj\Debug\discrete3.csprojResolveAssemblyReference.cache
+W:\vs_sources\C#\Nulp\discrete3\obj\Debug\discrete3.Form1.resources
+W:\vs_sources\C#\Nulp\discrete3\obj\Debug\discrete3.Properties.Resources.resources
+W:\vs_sources\C#\Nulp\discrete3\obj\Debug\discrete3.csproj.GenerateResource.Cache
+W:\vs_sources\C#\Nulp\discrete3\obj\Debug\discrete3.csproj.CoreCompileInputs.cache
+W:\vs_sources\C#\Nulp\discrete3\obj\Debug\discrete3.exe
+W:\vs_sources\C#\Nulp\discrete3\obj\Debug\discrete3.pdb
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete3\bin\Debug\discrete3.exe.config
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete3\bin\Debug\discrete3.exe
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete3\bin\Debug\discrete3.pdb
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete3\bin\Debug\MetroFramework.Design.dll
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete3\bin\Debug\MetroFramework.dll
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete3\bin\Debug\MetroFramework.Fonts.dll
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete3\obj\Debug\discrete3.csprojResolveAssemblyReference.cache
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete3\obj\Debug\discrete3.Form1.resources
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete3\obj\Debug\discrete3.Properties.Resources.resources
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete3\obj\Debug\discrete3.csproj.GenerateResource.Cache
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete3\obj\Debug\discrete3.csproj.CoreCompileInputs.cache
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete3\obj\Debug\discrete3.exe
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete3\obj\Debug\discrete3.pdb
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete3\bin\Debug\Microsoft.GLEE.dll
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete3\bin\Debug\Microsoft.GLEE.Drawing.dll
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete3\bin\Debug\Microsoft.GLEE.GraphViewerGDI.dll
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete3\bin\Debug\Microsoft.GLEE.pdb
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete3\bin\Debug\Microsoft.GLEE.Drawing.pdb
+W:\nulp\4\Дискретні моделі в САПР\discrete\discrete3\bin\Debug\Microsoft.GLEE.GraphViewerGDI.pdb
